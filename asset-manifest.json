@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kohanai-converter/static/css/main.e337f057.chunk.css",
-    "main.js": "/kohanai-converter/static/js/main.f33d3e1d.chunk.js",
-    "main.js.map": "/kohanai-converter/static/js/main.f33d3e1d.chunk.js.map",
+    "main.js": "/kohanai-converter/static/js/main.11304181.chunk.js",
+    "main.js.map": "/kohanai-converter/static/js/main.11304181.chunk.js.map",
     "runtime-main.js": "/kohanai-converter/static/js/runtime-main.d96c44df.js",
     "runtime-main.js.map": "/kohanai-converter/static/js/runtime-main.d96c44df.js.map",
     "static/js/2.266ca1da.chunk.js": "/kohanai-converter/static/js/2.266ca1da.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d96c44df.js",
     "static/js/2.266ca1da.chunk.js",
     "static/css/main.e337f057.chunk.css",
-    "static/js/main.f33d3e1d.chunk.js"
+    "static/js/main.11304181.chunk.js"
   ]
 }
