@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAKA,MACE,UAAW,CACX,aACF","file":"main.e337f057.chunk.css","sourcesContent":["/* body {\r\n  font: 14px \"Century Gothic\", Futura, sans-serif;\r\n  margin: 20px;\r\n} */\r\n\r\n#root {\r\n  width: auto;\r\n  margin: 0 auto;\r\n}\r\n\r\n"]}
